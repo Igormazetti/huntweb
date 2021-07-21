@@ -14,7 +14,7 @@
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [Css][css]: posicionamento, dimensionamento e muito mais
+- [Css](https://developer.mozilla.org/pt-BR/docs/Web/CSS): posicionamento, dimensionamento e muito mais
 - [Javascript][javascript]
 - [HTML][html]: estrutura e efeitos
 - [React][reactjs]: os fundamentos, como state, props, components, ciclo de vida.
