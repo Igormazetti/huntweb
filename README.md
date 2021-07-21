@@ -15,13 +15,13 @@
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Css](https://developer.mozilla.org/pt-BR/docs/Web/CSS): posicionamento, dimensionamento e muito mais
-- [Javascript][javascript]
-- [HTML][html]: estrutura e efeitos
-- [React][reactjs]: os fundamentos, como state, props, components, ciclo de vida.
-- [Git][git]
-- [Github][github]
-- [Yarn][yarn]
-- [Node.js][nodejs]
+- [Javascript](https://developer.mozilla.org/pt-BR/docs/orphaned/Web/JavaScript)
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML): estrutura e efeitos
+- [React](https://pt-br.reactjs.org/): os fundamentos, como state, props, components, ciclo de vida.
+- [Git](https://git-scm.com/)
+- [Github](https://github.com/)
+- [Yarn](https://yarnpkg.com/)
+- [Node.js](https://developer.mozilla.org/pt-BR/docs/Learn/Server-side/Express_Nodejs/Introduction)
 
 ## 🚀 Como executar o projeto
 
